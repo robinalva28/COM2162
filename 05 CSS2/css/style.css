@@ -1,0 +1,23 @@
+/* selector class */
+.rojo {
+    background-color: red;
+    margin-left: 3%;
+    color: deepskyblue;
+}
+
+/* selector id */
+#doloresText{
+    font-style: italic;
+}
+
+#titulo2{
+    font-style: normal;
+}
+/* selector elemento */
+div{
+    color: darkblue;
+}
+/* selector de de */
+div p {
+    font-weight: bold;
+}
