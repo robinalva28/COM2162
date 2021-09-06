@@ -1,0 +1,33 @@
+.bloque {
+    background-color: blue;
+    color: white;
+    display: block;
+    width: 20%;
+    margin: 5px 8px;
+}
+
+.seleccionable:hover {
+    color: black;
+    background-color: white;
+}
+
+.bloque-inline {
+    background-color : turquoise;
+    color: sienna;
+    display: inline-block;
+    width: 20%;
+}
+
+.enlinea{
+    background-color : steelblue;
+    color: red;
+    display: inline;
+    /* padding: 50px; */
+}
+
+.none{
+    background-color : violet;
+    color: black;
+    /* display: none; */
+}
+
